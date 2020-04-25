@@ -45,3 +45,7 @@ figure{
   left: 50px;
   float: left;
 }
+#links{
+  position: relative;
+  left: 60px;
+}
