@@ -28,7 +28,7 @@ figure{
   text-align: center;
   margin-left: 120px;
 }
-#details
+.details
 {
   background-color: red;
   height: 100px;
