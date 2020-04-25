@@ -48,7 +48,9 @@ figure{
 }
 #links{
   float: left;
+  text-align: center;
 }
 #following{
+  text-align: center;
 float: left;
 }
