@@ -28,3 +28,7 @@ figure{
   text-align: center;
   margin-left: 120px;
 }
+#details
+{
+  background-color: red;
+}
