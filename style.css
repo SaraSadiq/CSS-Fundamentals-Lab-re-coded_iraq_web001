@@ -39,6 +39,6 @@ figure{
 
 }
 #correspond{
-  position: absolute;
+  position:static;
   float: left;
 }
