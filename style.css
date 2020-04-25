@@ -46,6 +46,9 @@ figure{
   float: left;
 }
 #links{
-  position: relative;
+  position: absolute;
   left: 60px;
+}
+#following{
+
 }
