@@ -34,6 +34,9 @@ figure{
 }
 #content{
   float: left;
+  position: relative;
+  left: 10px;
+  
 }
 #correspond{
   float: left;
