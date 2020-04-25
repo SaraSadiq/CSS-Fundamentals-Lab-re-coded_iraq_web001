@@ -44,6 +44,7 @@ figure{
   position: relative;
   left: 50px;
   float: left;
+  text-align: center;
 }
 #links{
   float: left;
