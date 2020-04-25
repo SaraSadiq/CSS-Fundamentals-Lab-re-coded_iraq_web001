@@ -26,4 +26,5 @@ figure{
 .paragragh{
   text-align: center;
   margin-left: auto;
+  float: 10px;
 }
